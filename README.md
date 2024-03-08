@@ -11,9 +11,9 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-# To Do App
+# WhaToDo App
 
-The To Do App is a powerful task management application built using Flutter. It enables users to create, organize, and prioritize tasks efficiently. With intuitive features like crossing off completed tasks and swiping to delete, the To Do App enhances productivity and simplifies task management.
+The WhaToDo App is a powerful task management application built using Flutter. It enables users to create, organize, and prioritize tasks efficiently. With intuitive features like crossing off completed tasks and swiping to delete, the To Do App enhances productivity and simplifies task management.
 
 ## Features
 
@@ -29,7 +29,7 @@ The To Do App is a powerful task management application built using Flutter. It 
 
 ## Getting Started
 
-To run the To Do App locally, follow these steps:
+To run the WhaToDo App locally, follow these steps:
 
 1. Ensure you have Flutter installed on your machine.
 2. Clone this repository to your local machine.
